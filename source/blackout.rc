@@ -1,0 +1,5 @@
+#include <os2.h>
+#include "blackout.h"
+
+ICON ID_BLACKOUT blackout.ico
+

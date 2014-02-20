@@ -1,0 +1,9 @@
+LIBRARY blackdll INITGLOBAL TERMGLOBAL
+DATA SINGLE
+DESCRIPTION "Input activity reporting library"
+
+EXPORTS
+	InputHook
+	hwndFrameShared
+	MouseMovesShared
+	LastTimeBlackCalledShared
